@@ -1,5 +1,5 @@
 # thesis-datasci04-ay2022-appendices
-### Prediction of Gender and Handedness from Offline Handwriting using Convolutional Neural Network with Canny Edge Detection <br>
+## Prediction of Gender and Handedness from Offline Handwriting using Convolutional Neural Network with Canny Edge Detection <br>
 University of Santo Tomas<br>
 BS Computer Science, Data Science<br>
 
