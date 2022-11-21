@@ -2,6 +2,7 @@
 ## Prediction of Gender and Handedness from Offline Handwriting using Convolutional Neural Network with Canny Edge Detection <br>
 University of Santo Tomas<br>
 BS Computer Science, Data Science<br>
+AY 2022-2023 <br>
 
 ### Researchers:<br>
 Algarne, John Angelo<br>
@@ -11,4 +12,3 @@ Teodoro, Leira Marie<br>
 
 ### Adviser:<br>
 Acula, Donata, PhD<br>
-AY 2022-2023
